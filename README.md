@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reggiem22
 - 👀 I’m interested in Software Engineering and Quantitative Analysis 
-- 🌱 I’m currently learning C++ and Full Stack Technology 
+- 🌱 I’m currently learning Python and Full Stack Technology 
 - 💞️ I’m looking to collaborate on all projects to enchance my skill overall
 - 📫 How to reach me 
 linkedin.com/in/reginald-c-morman-9a2583173
